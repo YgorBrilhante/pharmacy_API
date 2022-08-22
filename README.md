@@ -1,2 +1,2 @@
-# pharmacy_API
-API para o App de Farmácia
+# Pharmacy API
+API from Pharmacy Store App
